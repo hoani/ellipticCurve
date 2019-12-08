@@ -1,0 +1,14 @@
+[] UI Callbacks - break out into a utilities file and add unit testing
+[] Add default config file for default IP addresses etc
+[] Investigate using TOML as a config format
+[] Separate logger from ui elements
+    [] Use a logger config to select and choose logged parameters
+[] Big Project - Gui Launcher As Proxy
+[] Integrate infrared sensor
+[] Add servo UI
+[] Add Navigation UI
+[] Add file headers and descriptions
+[] Integrate webcam
+[] Handle disconnects from host better (tcp)
+[] Handle disconnects from host better (bt)
+[] Change CI to use python 3.6 for compatability on testing
